@@ -1,0 +1,9 @@
+[
+  {
+    "id": "powerbi-analytics-dashboard",
+    "title": "Dashboard de Analítica en Power BI",
+    "description": "Implementación de dashboard ejecutivo para seguimiento de ventas, rentabilidad y desempeño operativo mediante visualizaciones accionables.",
+    "technologies": ["Power BI", "DAX", "Excel"],
+    "caseStudyPath": "/projects/powerbi"
+  }
+]
